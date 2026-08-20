@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "firmware": "",
-  "sha256": "",
-  "release_notes": "OTA foundation release"
+  "version": "1.0.2",
+  "firmware": "https://github.com/xetacode/ESP32-S3-Internet-Radio/releases/download/v1.0.2/Internet_Radio_v1.0.2.bin",
+  "sha256": "574f698f4139e189e08f8c3bceca9137bd39ef494537ef5a5c7b86d4864a2af3",
+  "release_notes": "First GitHub OTA update. Added OTA checking, download, installation and automatic restart."
 }
