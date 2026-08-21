@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "firmware": "https://github.com/xetacode/ESP32-S3-Internet-Radio/releases/download/v1.0.3/Internet_Radio_v1.0.3.bin",
-  "sha256": "dcf126e2899af356208e3e4874fbdb53e542b923b0aba5fd4606a627976a26de",
+  "version": "1.0.2",
+  "firmware": "https://github.com/xetacode/ESP32-S3-Internet-Radio/releases/download/v1.0.2/Internet_Radio_v1.0.2.bin",
+  "sha256": "8db56189a5a3735f011eb28b444a83edbf2891cc3ee3fe9ad2b3963c92a2179d",
   "release_notes": "Smart First-Boot Health Check. Added OTA rollback safety and first-boot health verification."
 }
