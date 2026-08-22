@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "firmware": "https://github.com/xetacode/ESP32-S3-Internet-Radio/releases/download/v1.0.4/Internet_Radio_v1.0.4.bin",
-  "sha256": "1023ef4e08b6c8b234006b6a8aa19b7b197bd09c5ec40b590f59889f9845c540",
-  "release_notes": "OTA UI Fix"
+  "version": "1.0.5",
+  "firmware": "https://github.com/xetacode/ESP32-S3-Internet-Radio/releases/download/v1.0.5/Internet_Radio_v1.0.5.bin",
+  "sha256": "1fb0591603cce4c859537a5bab9a54bf130aa195dc80da113feb22d53598b0f5",
+  "release_notes": "Testing OTA UI Fix"
 }
