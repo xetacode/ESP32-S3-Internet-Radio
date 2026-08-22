@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3-test",
-  "firmware": "https://github.com/xetacode/ESP32-S3-Internet-Radio/releases/download/v1.0.3-test/Internet_Radio_v1.0.3_ROLLBACK_TEST_FIXED.bin",
+  "version": "1.0.3",
+  "firmware": "https://github.com/xetacode/ESP32-S3-Internet-Radio/releases/download/v1.0.3/Internet_Radio_v1.0.3_ROLLBACK_TEST_FIXED.bin",
   "sha256": "7408177d5215f6e6ec81d5e7033d9f1e2d82f62ef815455fcd045e11c2608b3a",
   "release_notes": "Roll Back Test"
 }
